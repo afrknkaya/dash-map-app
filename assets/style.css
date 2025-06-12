@@ -1,0 +1,431 @@
+/* assets/style.css - YENİDEN DÜZENLENMİŞ AYDINLIK/KARANLIK MOD */
+
+:root {
+    /* === TEMEL KULLANICI PALETLERİ === */
+    /* --- KARANLIK TEMA ÖZEL PALETİ --- */
+    --dark-user-color-1: #412655; /* Koyu Derin Mor */
+    --dark-user-color-2: #6a2f66; /* Orta Koyu Macenta/Mor */
+    --dark-user-color-3: #a53c7d; /* Macenta/Mor */
+    --dark-user-color-4: #f35294; /* Parlak Pembe/Macenta */
+    --dark-user-color-5: #ff76a7; /* Açık Pembemsi Mor */
+
+    /* --- AYDINLIK TEMA ÖZEL PALETİ --- */
+    --light-user-color-1: #7cc4fb; /* Açık/Gökyüzü Mavisi */
+    --light-user-color-2: #baeaff; /* Çok Açık Mavi */
+    --light-user-color-3: #001f36; /* Çok Koyu Mavi (Aydınlıkta ana yazı rengi) */
+    --light-user-color-4: #4c58668c; /* Orta Gri */
+    --light-user-color-5: #e2e2e2; /* Açık Gri (Aydınlıkta kenarlık/hafif zemin) */
+
+    /* === GENEL TEMA DEĞİŞKENLERİ (Varsayılan olarak Karanlık Mod değerlerini alır) === */
+    
+    /* Arka Planlar */
+    --bg-main: #000000; /* Ana arka planı paletten alalım veya #080808; */
+    --bg-content: #100c14; /* Kartlar, menüler vb. için siyaha yakın koyu mor/gri */
+    --bg-content-alt: #18131f;  /* Biraz daha açık */
+
+    /* Vurgu Renkleri */
+    --primary-accent: var(--dark-user-color-4);
+    --secondary-accent: var(--dark-user-color-3);
+    --highlight-accent: var(--dark-user-color-5);
+    --border-color: var(--dark-user-color-2);
+    --subtle-accent: var(--dark-user-color-1);
+    
+    /* Yazı Renkleri */
+    --text-main: #e8e8f0;      
+    --text-on-accent: #ffffff;  
+    --text-muted: #8a8a9e;     
+    --text-headings-gradient-from: var(--dark-user-color-5);
+    --text-headings-gradient-mid:  var(--dark-user-color-1);
+    --text-headings-gradient-to:   var(--dark-user-color-3);
+    --text-headings-solid: var(--dark-user-color-5); /* Gradyan istenmeyen başlıklar için */
+
+    /* Diğerleri */
+    --transition-speed: 0.25s;
+    --transition-ease: ease-in-out;
+    --border-radius-base: 0.375rem;
+    --border-radius-large: 0.5rem;
+    --box-shadow-soft: none;
+    --box-shadow-strong: none;
+    --scrollbar-thumb-bg: var(--dark-user-color-3);
+    --scrollbar-thumb-hover-bg: var(--dark-user-color-4);
+    --scrollbar-track-bg: rgba(0,0,0,0.2);
+}
+
+/* AYDINLIK MOD DEĞİŞKENLERİ (body.theme-light aktif olduğunda bunlar geçerli olur) */
+body.theme-light {
+    /* Arka Planlar */
+    --bg-main: #ffffff;       
+    --bg-content: #ffffff;    
+    --bg-content-alt: #eef1f3; 
+
+    /* Vurgu Renkleri */
+    --primary-accent: var(--light-user-color-1);   /* Açık Mavi */
+    --secondary-accent: var(--light-user-color-4); /* Orta Gri */
+    --highlight-accent: var(--light-user-color-2); /* Çok Açık Mavi */
+    --border-color: var(--light-user-color-3);       /* Açık Gri */
+    --subtle-accent: var(--light-user-color-2);    /* Çok Açık Mavi */
+    
+    /* Yazı Renkleri */
+    --text-main: var(--light-user-color-3);       /* Koyu Mavi ana yazı */
+    --text-on-accent: #ffffff;  
+    --text-muted: var(--light-user-color-4);       /* Orta Gri */
+    --text-headings-gradient-from: var(--light-user-color-1); /* Açık Mavi */
+    --text-headings-gradient-mid:  #5c9fdd; /* Orta Mavi */
+    --text-headings-gradient-to:   var(--light-user-color-3); /* Koyu Mavi */
+    --text-headings-solid: var(--light-user-color-3); /* Koyu Mavi */
+
+    /* Diğerleri */
+    --scrollbar-thumb-bg: var(--light-user-color-4);
+    --scrollbar-thumb-hover-bg: var(--light-user-color-1);
+    --scrollbar-track-bg: rgba(0,0,0,0.08);
+}
+
+/* === GENEL ELEMENT STİLLERİ (Artık yukarıdaki --aktive- olmayan genel değişkenleri kullanıyor) === */
+body, html {
+    background-color: var(--bg-main) !important;
+    color: var(--text-main) !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300; letter-spacing: 0.5px;
+    transition: background-color var(--transition-speed) var(--transition-ease), color var(--transition-speed) var(--transition-ease);
+}
+
+/* GRADYANLI BAŞLIKLAR (H1-H3, H5-H6) */
+h1, .h1, h2, .h2, h3, .h3, h5, .h5, h6, .h6 {
+    background: linear-gradient(to right, 
+                                var(--text-headings-gradient-from), 
+                                var(--text-headings-gradient-mid), 
+                                var(--text-headings-gradient-to)) !important;
+    -webkit-background-clip: text !important; background-clip: text !important;
+    -webkit-text-fill-color: transparent !important; color: transparent !important;
+    font-weight: 500 !important; text-shadow: none !important;
+}
+/* KPI Rakamları (H4) ve diğer özel tek renkli başlıklar */
+#page-content h4.card-title { /* KPI rakamları ve teknoloji adı için */
+    background: none !important; /* Gradyanı kaldırmıştık */
+    -webkit-background-clip: unset !important;
+    background-clip: unset !important;
+    -webkit-text-fill-color: unset !important;
+    /* Renkleri .text-primary, .text-info gibi class'lardan alıyor */
+}
+#page-content h4.card-title.text-primary { color: var(--primary-accent) !important; 
+text-shadow: none;}
+#page-content h4.card-title.text-info { color: var(--primary-accent) !important;
+    background: none !important; /* Gradyanı kaldırmıştık */
+    text-shadow: none;
+    -webkit-background-clip: unset !important;
+    background-clip: unset !important;
+    -webkit-text-fill-color: unset !important; /* Teknoloji adı için kullandığımız renk */
+    /* font-size: 1.1rem; Python'da inline style olarak verilmişti, buradan da ayarlanabilir */
+}
+#page-content .text-success { color: #28a745 !important; } /* Aydınlıkta da koyu yeşil */
+#page-content .text-danger  { color: #dc3545 !important; } 
+#page-content .text-warning { color: #ffc107 !important; }
+
+p, label, span, div { color: var(--text-main); }
+.text-muted { color: var(--text-muted) !important; }
+/* .text-primary ve .text-info gibi utility class'ların genel H etiketlerini ezmemesi için (eğer p, span gibi elementlerde kullanılıyorsa) */
+p.text-primary, span.text-primary, div.text-primary { color: var(--primary-accent) !important; background: none; -webkit-background-clip: unset; background-clip: unset; -webkit-text-fill-color: unset;}
+p.text-info, span.text-info, div.text-info   { color: var(--secondary-accent) !important; background: none; -webkit-background-clip: unset; background-clip: unset; -webkit-text-fill-color: unset;}
+
+
+/* NAVBAR STİLLERİ */
+.navbar.bg-primary { /* VAPOR'un .bg-primary'sini eziyoruz */
+    background-color: var(--bg-content) !important;
+    border-bottom: 1px solid var(--border-color) !important;
+    box-shadow: none !important;
+}
+.navbar .navbar-brand span, .navbar .nav-link {
+    background: none !important; -webkit-background-clip: unset !important;
+    background-clip: unset !important; -webkit-text-fill-color: unset !important;
+    color: var(--highlight-accent) !important; 
+    font-weight: 400; transition: color var(--transition-speed) var(--transition-ease);
+}
+.navbar .nav-link:hover { color: var(--text-on-accent) !important; } /* Vurgu üzerinde beyaz */
+/* assets/style.css içinde */
+
+#open-offcanvas-button,
+#open-offcanvas-button:focus,
+#open-offcanvas-button:active,
+#open-offcanvas-button.active, 
+#open-offcanvas-button:active:focus {
+    border-color: var(--secondary-accent) !important; /* Normal kenarlık rengi */
+    color: var(--secondary-accent) !important;       /* Normal ikon rengi */
+    background-color: transparent !important;         /* Normal arka plan */
+    box-shadow: none !important;                     
+    text-shadow: none !important;                    
+    outline: none !important;                        
+    transition: color 0.15s ease-in-out, border-color 0.15s ease-in-out, background-color 0.15s ease-in-out;
+}
+
+#open-offcanvas-button .bi { /* Buton içindeki ikonu ayrıca hedeflemek için */
+    text-shadow: none !important;
+    color: inherit !important; /* Butonun kendi rengini alır */
+}
+
+#open-offcanvas-button:hover { /* Fare üzerine gelince */
+    border-color: var(--primary-accent) !important;   /* Hover kenarlık rengi */
+    color: var(--primary-accent) !important;           /* Hover ikon rengi */
+    background-color: rgba(243, 82, 148, 0.05) !important; /* Çok hafif bir hover arka planı (paletinizdeki --primary-accent'in transparan hali) */
+                                                          /* Bu rgba değerini paletinizdeki --primary-accent'in HEX koduna göre ayarlayabilirsiniz */
+                                                          /* Örneğin --primary-accent: #f35294; ise, rgba(243, 82, 148, 0.05) doğru olur */
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+#open-offcanvas-button:hover .bi {
+    color: var(--primary-accent) !important; /* Hover ikon rengi */
+}
+
+/* KART STİLLERİ */
+#page-content .card {
+    background-color: var(--bg-content) !important;
+    border: 1px solid var(--border-color) !important;
+    box-shadow: none !important;
+    border-radius: var(--border-radius-large) !important;
+    color: var(--text-main) !important;
+    transition: background-color var(--transition-speed) var(--transition-ease), border-color var(--transition-speed) var(--transition-ease);
+}
+#page-content .card-header {
+    background-color: var(--bg-content-alt) !important;
+    border-bottom: 1px solid var(--border-color) !important;
+    font-weight: 500;
+    transition: background-color var(--transition-speed) var(--transition-ease), border-color var(--transition-speed) var(--transition-ease);
+}
+/* #page-content .card-header h5 zaten genel H5 kuralından gradyan alacak */
+
+
+/* AÇILIŞ SAYFASI STİLLERİ */
+#landing-page-container {
+    background-color: var(--bg-main) !important;
+    color: var(--text-main); min-height: calc(100vh - 56px); display: flex;
+    align-items: center; justify-content: center; padding-top: 56px; padding-bottom: 20px;
+    overflow: hidden; position: relative;
+    transition: background-color var(--transition-speed) var(--transition-ease);
+}
+#landing-page-container::before, #landing-page-container::after {
+    content: ""; position: absolute; left: 50%; width: 180vh; height: 180vh;
+    border-radius: 45%; animation-name: waveRotate; animation-iteration-count: infinite;
+    animation-timing-function: linear; z-index: 0; transform-origin: center center;
+    transition: opacity var(--transition-speed) var(--transition-ease), background var(--transition-speed) var(--transition-ease);
+}
+/* Dalga renkleri ve opaklıkları tema değişimine duyarlı olmalı */
+body:not(.theme-light) #landing-page-container::before { /* Karanlık mod dalga 1 */
+    bottom: 15vh; width: 175vh; height: 75vh; border-radius: 20%;
+    background: radial-gradient(ellipse at center, var(--dark-user-color-1) 5%, var(--dark-user-color-2) 25%, var(--dark-user-color-3) 45%, transparent 70%);
+    animation-duration: 25s; opacity: 0.25;
+}
+body:not(.theme-light) #landing-page-container::after { /* Karanlık mod dalga 2 */
+    bottom: -0vh; width: 175vh; height: 75vh; border-radius: 20%;
+    background: radial-gradient(ellipse at center, var(--dark-user-color-4) 10%, var(--dark-user-color-3) 30%, var(--dark-user-color-2) 50%, transparent 75%);
+    animation-duration: 15s; opacity: 0.25; animation-delay: -5s;
+}
+body.theme-light #landing-page-container::before { /* Aydınlık mod dalga 1 */
+    bottom: 15vh; width: 175vh; height: 75vh; border-radius: 20%;
+    background: radial-gradient(ellipse at center, var(--light-user-color-1) 5%, var(--light-user-color-3) 25%, rgba(125,196,251,0.3) 45%, transparent 70%); /* Aydınlık paletten */
+    animation-duration: 15s; opacity: 0.50;
+}
+body.theme-light #landing-page-container::after { /* Aydınlık mod dalga 2 */
+    bottom: -0vh; width: 175vh; height: 75vh; border-radius: 20%;
+    background: radial-gradient(ellipse at center, var(--light-user-color-1) 10%, var(--light-user-color-3) 30%, rgba(125,196,251,0.2) 50%, transparent 75%); /* Aydınlık paletten */
+    animation-duration: 20s; opacity: 0.55; animation-delay: -5s;
+}
+@keyframes waveRotate { /* Bu animasyon aynı kalabilir */
+    0% { transform: translateX(-50%) translateY(0%) rotate(0deg); } 25% { transform: translateX(-50%) translateY(-2%) rotate(90deg); }
+    50% { transform: translateX(-50%) translateY(0%) rotate(180deg); } 75% { transform: translateX(-50%) translateY(2%) rotate(270deg); }
+    100% { transform: translateX(-50%) translateY(0%) rotate(360deg); }
+}
+
+.landing-jumbo-content {
+    background-color: var(--bg-content) !important; 
+    border: 1px solid var(--border-color) !important;
+    color: var(--text-main) !important; 
+    border-radius: 20px; box-shadow: none !important; 
+    backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+    padding: 2rem 1.5rem !important; position: relative; z-index: 1;
+    transition: background-color var(--transition-speed) var(--transition-ease), border-color var(--transition-speed) var(--transition-ease);
+}
+#landing-page-container .display-3 { /* Açılış ana başlığı zaten genel H1 kuralından gradyan alacak */
+    font-weight: bold !important;
+}
+#landing-page-container .lead .btn-primary { /* Bu seçici, açılış sayfasındaki "primary" renkli butonu hedefler */
+    background-color: var(--primary-accent) !important; /* Arka plan rengi */
+    border-color: var(--primary-accent) !important;     /* Kenarlık rengi */
+    color: var(--text-on-accent) !important;          /* Yazı rengi */
+    
+    font-weight: 500; 
+    padding: 0.8rem 2rem; /* İç boşluklar - yüksekliği ve genişliği etkiler */
+    font-size: 1.1rem;    /* Yazı boyutu */
+    
+    /* Kenar yuvarlaklığı için aşağıdaki satırı kullanabilirsiniz veya Python'da className="rounded-pill" */
+    border-radius: var(--border-radius-base) !important; /* Varsayılan yuvarlaklık (6px) */
+    /* VEYA Daha yuvarlak köşeler için: border-radius: 1rem !important; */
+    /* VEYA Hap şeklinde için: border-radius: 50px !important; */
+    
+    transition: background-color var(--transition-speed) var(--transition-ease), 
+                border-color var(--transition-speed) var(--transition-ease), 
+                transform var(--transition-speed) var(--transition-ease),
+                box-shadow var(--transition-speed) var(--transition-ease);
+    box-shadow: var(--box-shadow-soft) !important; /* Sade bir gölge (parlama değil) */
+}
+#landing-page-container .lead .btn-primary:hover {
+    background-color: var(--highlight-accent) !important;
+    border-color: var(--highlight-accent) !important;
+}
+
+/* YAN MENÜ (OFFCANVAS) STİLLERİ */
+.offcanvas.offcanvas-start { /* Menü panelinin kendisi */
+    background-color: var(--bg-content) !important; /* Tema değişkeninden alır */
+    border-top-right-radius: 45px !important;    /* Sağ üst köşeyi yuvarla */
+    border-bottom-right-radius: 45px !important; /* Sağ alt köşeyi yuvarla */
+    border-left: none !important;                 /* Soldaki varsayılan kenarlığı kaldır */
+    box-shadow: 0 4px 50px var(--border-color) !important; /* Gölge */
+    /* width: 300px !important; */ /* Genişliğini buradan ayarlayabilirsiniz */
+    transition: background-color var(--transition-speed) var(--transition-ease); /* Tema geçişi için */
+} /* Diğerleri aynı */ }
+.offcanvas-header { border-bottom: 1px solid var(--border-color) !important; background-color: var(--bg-content-alt) !important; }
+.offcanvas-title { /* Yan menü başlığı (H5) genel H5 kuralından gradyan alacak */ }
+.offcanvas-header .btn-close { /* Kapatma (X) butonu */
+    filter: invert(80%) sepia(30%) saturate(500%) hue-rotate(250deg) brightness(100%) contrast(90%) !important;
+    opacity: 0.8 !important;
+    transition: opacity 0.15s ease, transform 0.15s ease;
+}
+.offcanvas-nav-link {
+    background: none !important; /* Gradyandan etkilenmemesi için */
+    -webkit-background-clip: unset !important; 
+    background-clip: unset !important; 
+    -webkit-text-fill-color: unset !important;
+    color: var(--active-text-muted) !important; /* Normal link rengi (sönük) */
+    border-radius: 10px !important;        
+    margin: 0.3rem 1rem !important;         
+    transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out, transform 0.15s ease;
+    padding: 0.75rem 1.25rem !important;    
+    text-align: left;
+    font-weight: 500;
+    border: 1px solid transparent !important; /* Hover'da border çıkacaksa yerini belli eder */
+    text-shadow: none !important; /* Linklerde parlama olmasın */
+}
+.offcanvas-nav-link:hover {
+    background-color: var(--active-border-color) !important; /* Hafif bir arka plan */
+    color: var(--active-highlight-accent) !important;       /* Yazı rengi canlansın */
+    transform: translateX(15px);                            /* Hafif sağa kaysın */
+    /* border-color: var(--active-secondary-accent) !important; */ /* İsteğe bağlı kenarlık */
+}
+.offcanvas .nav-pills .nav-link.active,
+.offcanvas .nav-pills .show > .nav-link {
+    background: var(--subtle-accent) !important;
+    -webkit-background-clip: unset !important; background-clip: unset !important;
+    -webkit-text-fill-color: unset !important;
+    color: var(--text-on-accent) !important;
+    box-shadow: none !important;
+}
+/* Scrollbar */
+.offcanvas-body::-webkit-scrollbar, 
+#time-series-hover-output .card-body::-webkit-scrollbar { width: 8px; }
+.offcanvas-body::-webkit-scrollbar-track,
+#time-series-hover-output .card-body::-webkit-scrollbar-track { background: var(--scrollbar-track-bg); border-radius: 10px; }
+.offcanvas-body::-webkit-scrollbar-thumb,
+#time-series-hover-output .card-body::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb-bg); border-radius: 10px; }
+.offcanvas-body::-webkit-scrollbar-thumb:hover,
+#time-series-hover-output .card-body::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover-bg); }
+
+
+/* DROPDOWN STİLLERİ (DCC) */
+.Select-menu-outer { background-color: var(--bg-content-alt) !important; border: 1px solid var(--border-color) !important; }
+.Select-control { background-color: var(--bg-main) !important; border: 1px solid var(--border-color) !important; }
+.Select-control .Select-value-label, .Select-control .Select-placeholder, .Select-control .Select-input > input { color: var(--text-main) !important; }
+.Select-arrow-zone svg, .Select-clear-zone svg { fill: var(--secondary-accent) !important; }
+.Select--multi .Select-value { background-color: var(--secondary-accent) !important; color: var(--text-main) !important; border-color: var(--border-color) !important;}
+.Select--multi .Select-value-icon:hover { background-color: var(--primary-accent) !important; color: var(--text-on-accent) !important;}
+.Select-option { color: var(--text-muted) !important; }
+.Select-option.is-focused { background-color: var(--border-color) !important; color: var(--highlight-accent) !important;}
+.Select-option.is-selected { background-color: var(--primary-accent) !important; color: var(--text-on-accent) !important;}
+
+/* TABLO STİLLERİ (DBC) */
+.table { color: var(--text-main) !important; }
+.table th, .table td { border-color: var(--border-color) !important; text-shadow: none !important; }
+.table thead th { /* Tablo başlıkları tek renk */
+    background: var(--bg-content-alt) !important; -webkit-background-clip: unset !important;
+    background-clip: unset !important; -webkit-text-fill-color: unset !important;
+    color: var(--highlight-accent) !important;
+    border-bottom: 2px solid var(--primary-accent) !important;
+}
+.table-hover tbody tr:hover { color: var(--text-on-accent) !important; background-color: var(--secondary-accent) !important;}
+.table-striped tbody tr:nth-of-type(odd) { background-color: rgba(var(--rgb-text-on-accent-for-alpha, 255,255,255),0.02) !important; }
+body.theme-light .table-striped tbody tr:nth-of-type(odd) { background-color: rgba(var(--rgb-text-on-accent-for-alpha-light, 0,0,0),0.03) !important; }
+
+
+/* RangeSlider Stilleri (DCC) */
+.rc-slider-track { background-color: var(--primary-accent) !important; }
+.rc-slider-rail { background-color: var(--border-color) !important; }
+.rc-slider-handle { border: 2px solid var(--primary-accent) !important; background-color: var(--highlight-accent) !important; box-shadow: none; }
+.rc-slider-mark-text { color: var(--text-muted) !important; text-shadow: none !important;}
+.rc-slider-tooltip .rc-slider-tooltip-inner { background-color: var(--secondary-accent) !important; color: var(--text-main) !important; } /* text-main kullandım */
+.rc-slider-tooltip .rc-slider-tooltip-arrow { border-top-color: var(--secondary-accent) !important; }
+
+/* Genel Buton Stilleri (dbc.Button color="primary" için) */
+.btn-primary { background-color: var(--primary-accent) !important; border-color: var(--primary-accent) !important; color: var(--text-on-accent) !important; }
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active { background-color: var(--highlight-accent) !important; border-color: var(--highlight-accent) !important; color: var(--text-on-accent) !important; box-shadow: none; }
+
+/* Alert Stilleri */
+.alert { border-radius: var(--border-radius-base); text-shadow: none !important; }
+.alert-info { background-color: var(--secondary-accent) !important; color: var(--text-main) !important; border-color: var(--primary-accent) !important; }
+/* Diğer alert tipleri (warning, danger) VAPOR'dan veya Bootstrap'ten gelebilir, gerekirse ezin */
+
+
+/* Zaman Serisi Hover Detay Kutusu */
+#time-series-hover-output .card { background-color: var(--bg-content-alt) !important; border-color: var(--border-color) !important;}
+#time-series-hover-output .card-header { background-color: rgba(0,0,0,0.1) !important; border-bottom-color: var(--border-color) !important;}
+/* #time-series-hover-output .card-header h6 genel h6 kuralından gradyan alır */
+.hover-data-item strong { color: var(--highlight-accent) !important;}
+.hover-data-item span { color: var(--text-main) !important;}
+
+/* Sayfa içeriği */
+#page-content, #page-content > .container-fluid.dbc { background-color: var(--bg-main) !important;}
+
+/* assets/style.css dosyasının sonuna eklenecek */
+
+/* ... (önceki CSS kuralları burada) ... */
+
+/* Tema Switch İkonları için Stiller */
+#theme-icon-moon .bi,
+#theme-icon-sun .bi {
+    font-size: 1.1rem; /* İkon boyutunu biraz ayarlayalım */
+    transition: color var(--transition-speed) var(--transition-ease);
+    vertical-align: middle; /* Switch ile daha iyi hizalanması için */
+}
+
+/* Varsayılan (Karanlık Mod) İkon Renkleri */
+#theme-icon-moon .bi {
+    color: var(--active-highlight-accent); /* Karanlık modda Ay parlak */
+}
+#theme-icon-sun .bi {
+    color: var(--active-text-muted);       /* Karanlık modda Güneş sönük */
+}
+
+/* Aydınlık Mod Aktif Olduğunda İkon Renkleri */
+body.theme-light #theme-icon-moon .bi {
+    color: var(--active-text-muted);       /* Aydınlık modda Ay sönük */
+}
+body.theme-light #theme-icon-sun .bi {
+    color: var(--active-highlight-accent); /* Aydınlık modda Güneş parlak (veya özel bir sarı/turuncu) */
+    /* Örnek: color: #f39c12 !important; */ /* Canlı bir turuncu */
+}
+
+/* Switch'in kendisi için (VAPOR teması bunu zaten stillendirir) */
+/* Gerekirse buradan ince ayar yapılabilir */
+/*
+.form-switch .form-check-input {
+    background-color: var(--active-secondary-accent);
+    border-color: var(--active-secondary-accent);
+}
+.form-switch .form-check-input:focus {
+    border-color: var(--active-primary-accent);
+    box-shadow: 0 0 0 0.25rem rgba(var(--rgb-primary-accent, 243,82,148), 0.25);
+}
+body.theme-light .form-switch .form-check-input:focus {
+    box-shadow: 0 0 0 0.25rem rgba(var(--rgb-primary-accent-light, 124,196,251), 0.25);
+}
+.form-switch .form-check-input:checked {
+    background-color: var(--active-primary-accent);
+    border-color: var(--active-primary-accent);
+}
+*/

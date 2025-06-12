@@ -1,0 +1,864 @@
+﻿Region,RE or Non-RE,Group Technology,Year,Sum of Electricity Installed Capacity (MW)
+Africa,Total Renewable,Wind energy,2000.0,139.05
+Africa,Total Renewable,Wind energy,2001.0,139.05
+Africa,Total Renewable,Wind energy,2002.0,144.31
+Africa,Total Renewable,Wind energy,2003.0,153.79000000000002
+Africa,Total Renewable,Wind energy,2004.0,236.11
+Africa,Total Renewable,Wind energy,2005.0,240.18
+Africa,Total Renewable,Wind energy,2006.0,327.9050000000001
+Africa,Total Renewable,Wind energy,2007.0,470.1
+Africa,Total Renewable,Wind energy,2008.0,555.3000000000001
+Africa,Total Renewable,Wind energy,2009.0,742.4000000000002
+Africa,Total Renewable,Wind energy,2010.0,864.777
+Africa,Total Renewable,Wind energy,2011.0,994.9820000000001
+Africa,Total Renewable,Wind energy,2012.0,1131.994
+Africa,Total Renewable,Wind energy,2013.0,1741.8339999999998
+Africa,Total Renewable,Wind energy,2014.0,2399.398
+Africa,Total Renewable,Wind energy,2015.0,3320.268000000001
+Africa,Total Renewable,Wind energy,2016.0,3831.3940000000007
+Africa,Total Renewable,Wind energy,2017.0,4578.263000000001
+Africa,Total Renewable,Wind energy,2018.0,5470.653
+Africa,Total Renewable,Wind energy,2019.0,5527.853
+Africa,Total Renewable,Wind energy,2020.0,6513.753
+Africa,Total Renewable,Wind energy,2021.0,6908.752999999998
+Africa,Total Renewable,Wind energy,2022.0,7744.852999999998
+Africa,Total Renewable,Wind energy,2023.0,8653.627999999999
+Africa,Total Renewable,Wind energy,2024.0,9232.978000000001
+Africa,Total Renewable,Solar energy,2000.0,8.355
+Africa,Total Renewable,Solar energy,2001.0,9.91
+Africa,Total Renewable,Solar energy,2002.0,11.576
+Africa,Total Renewable,Solar energy,2003.0,13.419000000000002
+Africa,Total Renewable,Solar energy,2004.0,16.116
+Africa,Total Renewable,Solar energy,2005.0,19.012
+Africa,Total Renewable,Solar energy,2006.0,24.043000000000003
+Africa,Total Renewable,Solar energy,2007.0,30.311000000000007
+Africa,Total Renewable,Solar energy,2008.0,37.10600000000001
+Africa,Total Renewable,Solar energy,2009.0,72.96099999999998
+Africa,Total Renewable,Solar energy,2010.0,202.853
+Africa,Total Renewable,Solar energy,2011.0,280.4599999999999
+Africa,Total Renewable,Solar energy,2012.0,328.3860000000001
+Africa,Total Renewable,Solar energy,2013.0,634.4139999999999
+Africa,Total Renewable,Solar energy,2014.0,1618.4010000000005
+Africa,Total Renewable,Solar energy,2015.0,2114.2479999999996
+Africa,Total Renewable,Solar energy,2016.0,3301.3
+Africa,Total Renewable,Solar energy,2017.0,5022.779
+Africa,Total Renewable,Solar energy,2018.0,7922.207
+Africa,Total Renewable,Solar energy,2019.0,9279.042000000003
+Africa,Total Renewable,Solar energy,2020.0,10644.069
+Africa,Total Renewable,Solar energy,2021.0,11570.480999999996
+Africa,Total Renewable,Solar energy,2022.0,12613.919
+Africa,Total Renewable,Solar energy,2023.0,13515.594000000003
+Africa,Total Renewable,Solar energy,2024.0,15378.029000000002
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2000.0,20842.003
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2001.0,20964.046000000002
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2002.0,21205.190999999995
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2003.0,21582.073999999993
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2004.0,21522.048999999995
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2005.0,21549.699999999997
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2006.0,21521.428
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2007.0,21722.219999999998
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2008.0,22031.366999999995
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2009.0,23820.564
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2010.0,24631.126999999997
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2011.0,24781.669
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2012.0,25441.676000000003
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2013.0,26699.316000000003
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2014.0,26722.517
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2015.0,27230.494
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2016.0,28158.686999999998
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2017.0,30916.718000000004
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2018.0,32287.989000000005
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2019.0,32986.691
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2020.0,33805.896
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2021.0,34287.206
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2022.0,36033.363
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2023.0,37586.05900000001
+Africa,Total Renewable,Hydropower (excl. Pumped Storage),2024.0,39325.15400000001
+Africa,Total Renewable,Bioenergy,2000.0,800.679
+Africa,Total Renewable,Bioenergy,2001.0,831.5790000000001
+Africa,Total Renewable,Bioenergy,2002.0,853.5790000000001
+Africa,Total Renewable,Bioenergy,2003.0,861.5790000000001
+Africa,Total Renewable,Bioenergy,2004.0,870.5790000000001
+Africa,Total Renewable,Bioenergy,2005.0,953.8290000000001
+Africa,Total Renewable,Bioenergy,2006.0,886.202
+Africa,Total Renewable,Bioenergy,2007.0,901.052
+Africa,Total Renewable,Bioenergy,2008.0,945.672
+Africa,Total Renewable,Bioenergy,2009.0,997.981
+Africa,Total Renewable,Bioenergy,2010.0,1059.92
+Africa,Total Renewable,Bioenergy,2011.0,1142.46
+Africa,Total Renewable,Bioenergy,2012.0,1238.2130000000002
+Africa,Total Renewable,Bioenergy,2013.0,1310.803
+Africa,Total Renewable,Bioenergy,2014.0,1403.3700000000001
+Africa,Total Renewable,Bioenergy,2015.0,1484.2900000000002
+Africa,Total Renewable,Bioenergy,2016.0,1546.6850000000004
+Africa,Total Renewable,Bioenergy,2017.0,1663.0600000000006
+Africa,Total Renewable,Bioenergy,2018.0,1817.1600000000005
+Africa,Total Renewable,Bioenergy,2019.0,1830.5600000000006
+Africa,Total Renewable,Bioenergy,2020.0,1845.3170000000007
+Africa,Total Renewable,Bioenergy,2021.0,1943.0600000000004
+Africa,Total Renewable,Bioenergy,2022.0,1941.9000000000003
+Africa,Total Renewable,Bioenergy,2023.0,1924.9000000000003
+Africa,Total Renewable,Bioenergy,2024.0,2015.1800000000003
+Africa,Total Renewable,Geothermal energy,,10303.35
+Africa,Total Non-Renewable,Nuclear,2000.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2001.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2002.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2003.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2004.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2005.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2006.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2007.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2008.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2009.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2010.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2011.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2012.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2013.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2014.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2015.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2016.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2017.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2018.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2019.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2020.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2021.0,1934.0
+Africa,Total Non-Renewable,Nuclear,2022.0,1940.0
+Africa,Total Non-Renewable,Nuclear,2023.0,1934.0
+Africa,Total Non-Renewable,Nuclear,2024.0,1934.0
+Africa,Total Non-Renewable,Fossil fuels,2000.0,72208.61779999999
+Africa,Total Non-Renewable,Fossil fuels,2001.0,74501.9458
+Africa,Total Non-Renewable,Fossil fuels,2002.0,75292.7558
+Africa,Total Non-Renewable,Fossil fuels,2003.0,79190.8358
+Africa,Total Non-Renewable,Fossil fuels,2004.0,80784.2178
+Africa,Total Non-Renewable,Fossil fuels,2005.0,85362.8858
+Africa,Total Non-Renewable,Fossil fuels,2006.0,88468.94979999999
+Africa,Total Non-Renewable,Fossil fuels,2007.0,94027.6298
+Africa,Total Non-Renewable,Fossil fuels,2008.0,97799.4538
+Africa,Total Non-Renewable,Fossil fuels,2009.0,103132.58380000001
+Africa,Total Non-Renewable,Fossil fuels,2010.0,109726.30180000002
+Africa,Total Non-Renewable,Fossil fuels,2011.0,114098.3968
+Africa,Total Non-Renewable,Fossil fuels,2012.0,119189.95280000001
+Africa,Total Non-Renewable,Fossil fuels,2013.0,125924.7148
+Africa,Total Non-Renewable,Fossil fuels,2014.0,131645.8618
+Africa,Total Non-Renewable,Fossil fuels,2015.0,136584.28379999998
+Africa,Total Non-Renewable,Fossil fuels,2016.0,146355.6778
+Africa,Total Non-Renewable,Fossil fuels,2017.0,156809.5398
+Africa,Total Non-Renewable,Fossil fuels,2018.0,172215.2878
+Africa,Total Non-Renewable,Fossil fuels,2019.0,177132.41879999998
+Africa,Total Non-Renewable,Fossil fuels,2020.0,181512.02279999995
+Africa,Total Non-Renewable,Fossil fuels,2021.0,184816.11279999997
+Africa,Total Non-Renewable,Fossil fuels,2022.0,187356.9948
+Africa,Total Non-Renewable,Fossil fuels,2023.0,189260.43299999996
+Africa,Total Non-Renewable,Fossil fuels,2024.0,191140.86299999992
+Africa,Total Non-Renewable,Pumped storage,2000.0,1400.0
+Africa,Total Non-Renewable,Pumped storage,2001.0,1400.0
+Africa,Total Non-Renewable,Pumped storage,2002.0,1400.0
+Africa,Total Non-Renewable,Pumped storage,2003.0,1400.0
+Africa,Total Non-Renewable,Pumped storage,2004.0,1633.0
+Africa,Total Non-Renewable,Pumped storage,2005.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2006.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2007.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2008.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2009.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2010.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2011.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2012.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2013.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2014.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2015.0,1864.0
+Africa,Total Non-Renewable,Pumped storage,2016.0,2863.0
+Africa,Total Non-Renewable,Pumped storage,2017.0,3196.0
+Africa,Total Non-Renewable,Pumped storage,2018.0,3196.0
+Africa,Total Non-Renewable,Pumped storage,2019.0,3196.0
+Africa,Total Non-Renewable,Pumped storage,2020.0,3196.0
+Africa,Total Non-Renewable,Pumped storage,2021.0,3196.0
+Africa,Total Non-Renewable,Pumped storage,2022.0,3196.0
+Africa,Total Non-Renewable,Pumped storage,2023.0,3196.0
+Africa,Total Non-Renewable,Pumped storage,2024.0,3546.0
+Americas,Total Renewable,Wind energy,2000.0,2574.955
+Americas,Total Renewable,Wind energy,2001.0,4119.221
+Americas,Total Renewable,Wind energy,2002.0,4708.7210000000005
+Americas,Total Renewable,Wind energy,2003.0,6462.811
+Americas,Total Renewable,Wind energy,2004.0,7087.021
+Americas,Total Renewable,Wind energy,2005.0,9564.431
+Americas,Total Renewable,Wind energy,2006.0,13234.041000000001
+Americas,Total Renewable,Wind energy,2007.0,18875.316
+Americas,Total Renewable,Wind energy,2008.0,27624.601
+Americas,Total Renewable,Wind energy,2009.0,39093.245
+Americas,Total Renewable,Wind energy,2010.0,45317.339
+Americas,Total Renewable,Wind energy,2011.0,53918.294
+Americas,Total Renewable,Wind energy,2012.0,70528.091
+Americas,Total Renewable,Wind energy,2013.0,73726.306
+Americas,Total Renewable,Wind energy,2014.0,84294.622
+Americas,Total Renewable,Wind energy,2015.0,98470.965
+Americas,Total Renewable,Wind energy,2016.0,112132.348
+Americas,Total Renewable,Wind energy,2017.0,121740.036
+Americas,Total Renewable,Wind energy,2018.0,132289.049
+Americas,Total Renewable,Wind energy,2019.0,146340.78
+Americas,Total Renewable,Wind energy,2020.0,165579.76900000003
+Americas,Total Renewable,Wind energy,2021.0,185854.576
+Americas,Total Renewable,Wind energy,2022.0,200230.963
+Americas,Total Renewable,Wind energy,2023.0,214730.476
+Americas,Total Renewable,Wind energy,2024.0,226093.327
+Americas,Total Renewable,Solar energy,2000.0,613.096
+Americas,Total Renewable,Solar energy,2001.0,621.521
+Americas,Total Renewable,Solar energy,2002.0,668.079
+Americas,Total Renewable,Solar energy,2003.0,708.283
+Americas,Total Renewable,Solar energy,2004.0,780.409
+Americas,Total Renewable,Solar energy,2005.0,926.219
+Americas,Total Renewable,Solar energy,2006.0,1136.288
+Americas,Total Renewable,Solar energy,2007.0,1488.214
+Americas,Total Renewable,Solar energy,2008.0,1679.0249999999999
+Americas,Total Renewable,Solar energy,2009.0,2228.13
+Americas,Total Renewable,Solar energy,2010.0,3737.647
+Americas,Total Renewable,Solar energy,2011.0,6447.9490000000005
+Americas,Total Renewable,Solar energy,2012.0,9917.168
+Americas,Total Renewable,Solar energy,2013.0,15105.136
+Americas,Total Renewable,Solar energy,2014.0,21152.289
+Americas,Total Renewable,Solar energy,2015.0,29330.879
+Americas,Total Renewable,Solar energy,2016.0,41900.001
+Americas,Total Renewable,Solar energy,2017.0,53418.827000000005
+Americas,Total Renewable,Solar energy,2018.0,66126.98499999999
+Americas,Total Renewable,Solar energy,2019.0,83025.775
+Americas,Total Renewable,Solar energy,2020.0,104225.997
+Americas,Total Renewable,Solar energy,2021.0,134464.718
+Americas,Total Renewable,Solar energy,2022.0,167881.63999999998
+Americas,Total Renewable,Solar energy,2023.0,210809.46099999995
+Americas,Total Renewable,Solar energy,2024.0,269398.58800000005
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2000.0,275723.997
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2001.0,277997.939
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2002.0,282938.773
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2003.0,285374.077
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2004.0,288016.754
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2005.0,291330.114
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2006.0,295178.4
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2007.0,299185.633
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2008.0,301133.24399999995
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2009.0,303775.99399999995
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2010.0,311300.71099999995
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2011.0,315454.76399999997
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2012.0,320638.41099999996
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2013.0,326218.424
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2014.0,330164.408
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2015.0,337788.132
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2016.0,356832.56799999997
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2017.0,358830.93000000005
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2018.0,361159.142
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2019.0,363239.192
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2020.0,364105.90799999994
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2021.0,365704.2519999999
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2022.0,368643.027
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2023.0,368934.80499999993
+Americas,Total Renewable,Hydropower (excl. Pumped Storage),2024.0,367698.2429999999
+Americas,Total Renewable,Bioenergy,2000.0,13886.957999999999
+Americas,Total Renewable,Bioenergy,2001.0,16349.678
+Americas,Total Renewable,Bioenergy,2002.0,17030.797
+Americas,Total Renewable,Bioenergy,2003.0,17713.64
+Americas,Total Renewable,Bioenergy,2004.0,17961.46
+Americas,Total Renewable,Bioenergy,2005.0,18501.495999999996
+Americas,Total Renewable,Bioenergy,2006.0,19303.22
+Americas,Total Renewable,Bioenergy,2007.0,20747.298000000003
+Americas,Total Renewable,Bioenergy,2008.0,21508.029
+Americas,Total Renewable,Bioenergy,2009.0,23502.89699999999
+Americas,Total Renewable,Bioenergy,2010.0,25714.819999999996
+Americas,Total Renewable,Bioenergy,2011.0,26931.842999999993
+Americas,Total Renewable,Bioenergy,2012.0,28784.221
+Americas,Total Renewable,Bioenergy,2013.0,31890.858
+Americas,Total Renewable,Bioenergy,2014.0,33142.488999999994
+Americas,Total Renewable,Bioenergy,2015.0,34347.206000000006
+Americas,Total Renewable,Bioenergy,2016.0,35289.953
+Americas,Total Renewable,Bioenergy,2017.0,36080.238000000005
+Americas,Total Renewable,Bioenergy,2018.0,36186.025
+Americas,Total Renewable,Bioenergy,2019.0,35706.906
+Americas,Total Renewable,Bioenergy,2020.0,36114.477000000006
+Americas,Total Renewable,Bioenergy,2021.0,36152.69000000001
+Americas,Total Renewable,Bioenergy,2022.0,36817.95800000001
+Americas,Total Renewable,Bioenergy,2023.0,37437.67800000001
+Americas,Total Renewable,Bioenergy,2024.0,37704.22200000001
+Americas,Total Renewable,Marine energy,,405.715
+Americas,Total Renewable,Geothermal energy,,99236.76100000004
+Americas,Total Non-Renewable,Other non-renewable energy,,182388.60800000004
+Americas,Total Non-Renewable,Nuclear,2000.0,112754.0
+Americas,Total Non-Renewable,Nuclear,2001.0,113052.9
+Americas,Total Non-Renewable,Nuclear,2002.0,113592.0
+Americas,Total Non-Renewable,Nuclear,2003.0,114143.86
+Americas,Total Non-Renewable,Nuclear,2004.0,116753.1
+Americas,Total Non-Renewable,Nuclear,2005.0,117653.04
+Americas,Total Non-Renewable,Nuclear,2006.0,117998.77
+Americas,Total Non-Renewable,Nuclear,2007.0,117930.7
+Americas,Total Non-Renewable,Nuclear,2008.0,118419.9
+Americas,Total Non-Renewable,Nuclear,2009.0,117988.7
+Americas,Total Non-Renewable,Nuclear,2010.0,118452.4
+Americas,Total Non-Renewable,Nuclear,2011.0,118703.8
+Americas,Total Non-Renewable,Nuclear,2012.0,119875.0
+Americas,Total Non-Renewable,Nuclear,2013.0,117881.3
+Americas,Total Non-Renewable,Nuclear,2014.0,117725.3
+Americas,Total Non-Renewable,Nuclear,2015.0,118033.0
+Americas,Total Non-Renewable,Nuclear,2016.0,118950.8
+Americas,Total Non-Renewable,Nuclear,2017.0,119014.9
+Americas,Total Non-Renewable,Nuclear,2018.0,118123.9
+Americas,Total Non-Renewable,Nuclear,2019.0,116810.0
+Americas,Total Non-Renewable,Nuclear,2020.0,114366.6
+Americas,Total Non-Renewable,Nuclear,2021.0,113412.4
+Americas,Total Non-Renewable,Nuclear,2022.0,111589.9
+Americas,Total Non-Renewable,Nuclear,2023.0,112703.9
+Americas,Total Non-Renewable,Nuclear,2024.0,113817.9
+Americas,Total Non-Renewable,Fossil fuels,2000.0,749304.551
+Americas,Total Non-Renewable,Fossil fuels,2001.0,743775.619
+Americas,Total Non-Renewable,Fossil fuels,2002.0,825244.138
+Americas,Total Non-Renewable,Fossil fuels,2003.0,875828.673
+Americas,Total Non-Renewable,Fossil fuels,2004.0,891545.814
+Americas,Total Non-Renewable,Fossil fuels,2005.0,906625.022
+Americas,Total Non-Renewable,Fossil fuels,2006.0,914752.5380000001
+Americas,Total Non-Renewable,Fossil fuels,2007.0,922925.902
+Americas,Total Non-Renewable,Fossil fuels,2008.0,933572.916
+Americas,Total Non-Renewable,Fossil fuels,2009.0,945375.736
+Americas,Total Non-Renewable,Fossil fuels,2010.0,960471.8942000001
+Americas,Total Non-Renewable,Fossil fuels,2011.0,969390.5332000001
+Americas,Total Non-Renewable,Fossil fuels,2012.0,968666.003
+Americas,Total Non-Renewable,Fossil fuels,2013.0,972018.679
+Americas,Total Non-Renewable,Fossil fuels,2014.0,975665.9790000002
+Americas,Total Non-Renewable,Fossil fuels,2015.0,961385.1560000002
+Americas,Total Non-Renewable,Fossil fuels,2016.0,961805.6410000001
+Americas,Total Non-Renewable,Fossil fuels,2017.0,963349.4036000001
+Americas,Total Non-Renewable,Fossil fuels,2018.0,973572.3340210002
+Americas,Total Non-Renewable,Fossil fuels,2019.0,967901.3070210002
+Americas,Total Non-Renewable,Fossil fuels,2020.0,965512.1500210001
+Americas,Total Non-Renewable,Fossil fuels,2021.0,969818.0820210001
+Americas,Total Non-Renewable,Fossil fuels,2022.0,959501.4500210001
+Americas,Total Non-Renewable,Fossil fuels,2023.0,960067.763021
+Americas,Total Non-Renewable,Fossil fuels,2024.0,955384.243021
+Americas,Total Non-Renewable,Pumped storage,2000.0,20673.0
+Americas,Total Non-Renewable,Pumped storage,2001.0,20817.0
+Americas,Total Non-Renewable,Pumped storage,2002.0,21524.0
+Americas,Total Non-Renewable,Pumped storage,2003.0,21673.0
+Americas,Total Non-Renewable,Pumped storage,2004.0,21915.0
+Americas,Total Non-Renewable,Pumped storage,2005.0,22498.0
+Americas,Total Non-Renewable,Pumped storage,2006.0,22612.0
+Americas,Total Non-Renewable,Pumped storage,2007.0,23037.0
+Americas,Total Non-Renewable,Pumped storage,2008.0,23009.0
+Americas,Total Non-Renewable,Pumped storage,2009.0,23311.0
+Americas,Total Non-Renewable,Pumped storage,2010.0,19662.0
+Americas,Total Non-Renewable,Pumped storage,2011.0,19740.0
+Americas,Total Non-Renewable,Pumped storage,2012.0,19813.0
+Americas,Total Non-Renewable,Pumped storage,2013.0,19834.0
+Americas,Total Non-Renewable,Pumped storage,2014.0,19924.0
+Americas,Total Non-Renewable,Pumped storage,2015.0,20014.0
+Americas,Total Non-Renewable,Pumped storage,2016.0,20175.0
+Americas,Total Non-Renewable,Pumped storage,2017.0,20207.0
+Americas,Total Non-Renewable,Pumped storage,2018.0,20233.0
+Americas,Total Non-Renewable,Pumped storage,2019.0,20179.0
+Americas,Total Non-Renewable,Pumped storage,2020.0,20381.0
+Americas,Total Non-Renewable,Pumped storage,2021.0,19921.0
+Americas,Total Non-Renewable,Pumped storage,2022.0,19965.0
+Americas,Total Non-Renewable,Pumped storage,2023.0,20087.6
+Americas,Total Non-Renewable,Pumped storage,2024.0,20087.6
+Asia,Total Renewable,Wind energy,2000.0,1417.005
+Asia,Total Renewable,Wind energy,2001.0,2182.412
+Asia,Total Renewable,Wind energy,2002.0,2407.9519999999998
+Asia,Total Renewable,Wind energy,2003.0,3607.96
+Asia,Total Renewable,Wind energy,2004.0,5439.6849999999995
+Asia,Total Renewable,Wind energy,2005.0,7033.725
+Asia,Total Renewable,Wind energy,2006.0,10636.118
+Asia,Total Renewable,Wind energy,2007.0,14208.787999999999
+Asia,Total Renewable,Wind energy,2008.0,21421.79799999999
+Asia,Total Renewable,Wind energy,2009.0,32187.458
+Asia,Total Renewable,Wind energy,2010.0,47579.168
+Asia,Total Renewable,Wind energy,2011.0,67995.63000000003
+Asia,Total Renewable,Wind energy,2012.0,85365.87100000001
+Asia,Total Renewable,Wind energy,2013.0,102583.95700000001
+Asia,Total Renewable,Wind energy,2014.0,128317.15699999999
+Asia,Total Renewable,Wind energy,2015.0,166768.76499999998
+Asia,Total Renewable,Wind energy,2016.0,190468.80500000002
+Asia,Total Renewable,Wind energy,2017.0,212151.658
+Asia,Total Renewable,Wind energy,2018.0,236852.99500000005
+Asia,Total Renewable,Wind energy,2019.0,266294.49600000004
+Asia,Total Renewable,Wind energy,2020.0,341955.7149999999
+Asia,Total Renewable,Wind energy,2021.0,396696.727
+Asia,Total Renewable,Wind energy,2022.0,439705.68999999994
+Asia,Total Renewable,Wind energy,2023.0,522563.09599999996
+Asia,Total Renewable,Wind energy,2024.0,609584.6200000001
+Asia,Total Renewable,Solar energy,2000.0,369.0450000000001
+Asia,Total Renewable,Solar energy,2001.0,505.004
+Asia,Total Renewable,Solar energy,2002.0,710.955
+Asia,Total Renewable,Solar energy,2003.0,949.7829999999999
+Asia,Total Renewable,Solar energy,2004.0,1239.9579999999996
+Asia,Total Renewable,Solar energy,2005.0,1611.0319999999997
+Asia,Total Renewable,Solar energy,2006.0,1972.6669999999995
+Asia,Total Renewable,Solar energy,2007.0,2297.361
+Asia,Total Renewable,Solar energy,2008.0,2882.4729999999986
+Asia,Total Renewable,Solar energy,2009.0,3770.6589999999997
+Asia,Total Renewable,Solar energy,2010.0,5639.252000000002
+Asia,Total Renewable,Solar energy,2011.0,9943.201000000006
+Asia,Total Renewable,Solar energy,2012.0,16622.153000000006
+Asia,Total Renewable,Solar energy,2013.0,36941.279999999955
+Asia,Total Renewable,Solar energy,2014.0,61600.227999999974
+Asia,Total Renewable,Solar energy,2015.0,91857.33599999998
+Asia,Total Renewable,Solar energy,2016.0,142756.30499999993
+Asia,Total Renewable,Solar energy,2017.0,217337.41100000008
+Asia,Total Renewable,Solar energy,2018.0,284544.9019999999
+Asia,Total Renewable,Solar energy,2019.0,343523.0559999999
+Asia,Total Renewable,Solar energy,2020.0,427261.1349999997
+Asia,Total Renewable,Solar energy,2021.0,507476.8149999999
+Asia,Total Renewable,Solar energy,2022.0,626000.4389999994
+Asia,Total Renewable,Solar energy,2023.0,873884.2749999998
+Asia,Total Renewable,Solar energy,2024.0,1200958.8159999996
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2000.0,181457.46899999995
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2001.0,191635.83299999998
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2002.0,197025.84199999998
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2003.0,211752.38299999994
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2004.0,227397.61099999992
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2005.0,243004.26099999994
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2006.0,259247.392
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2007.0,277959.30899999995
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2008.0,303056.61199999996
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2009.0,327440.64
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2010.0,351134.85400000005
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2011.0,372872.4749999999
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2012.0,397283.341
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2013.0,435901.921
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2014.0,466962.085
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2015.0,488213.184
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2016.0,501695.376
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2017.0,513226.672
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2018.0,527064.4060000001
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2019.0,538218.6950000002
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2020.0,555013.5210000002
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2021.0,574486.723
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2022.0,591294.7109999998
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2023.0,596676.4209999999
+Asia,Total Renewable,Hydropower (excl. Pumped Storage),2024.0,615481.9629999999
+Asia,Total Renewable,Bioenergy,2000.0,5235.441000000001
+Asia,Total Renewable,Bioenergy,2001.0,5427.461000000001
+Asia,Total Renewable,Bioenergy,2002.0,6061.766
+Asia,Total Renewable,Bioenergy,2003.0,6369.536
+Asia,Total Renewable,Bioenergy,2004.0,6834.558
+Asia,Total Renewable,Bioenergy,2005.0,7639.781999999998
+Asia,Total Renewable,Bioenergy,2006.0,9070.070999999998
+Asia,Total Renewable,Bioenergy,2007.0,10396.816
+Asia,Total Renewable,Bioenergy,2008.0,11664.144
+Asia,Total Renewable,Bioenergy,2009.0,14133.703999999998
+Asia,Total Renewable,Bioenergy,2010.0,14038.018999999997
+Asia,Total Renewable,Bioenergy,2011.0,15493.590999999999
+Asia,Total Renewable,Bioenergy,2012.0,15999.344999999998
+Asia,Total Renewable,Bioenergy,2013.0,18326.626000000004
+Asia,Total Renewable,Bioenergy,2014.0,21105.327
+Asia,Total Renewable,Bioenergy,2015.0,23983.962000000007
+Asia,Total Renewable,Bioenergy,2016.0,30385.325000000015
+Asia,Total Renewable,Bioenergy,2017.0,33856.40200000001
+Asia,Total Renewable,Bioenergy,2018.0,37826.562000000005
+Asia,Total Renewable,Bioenergy,2019.0,42934.74700000001
+Asia,Total Renewable,Bioenergy,2020.0,49974.286000000015
+Asia,Total Renewable,Bioenergy,2021.0,56594.17999999999
+Asia,Total Renewable,Bioenergy,2022.0,60919.474999999984
+Asia,Total Renewable,Bioenergy,2023.0,64276.39099999999
+Asia,Total Renewable,Bioenergy,2024.0,66619.797
+Asia,Total Renewable,Marine energy,,3176.837000000002
+Asia,Total Renewable,Geothermal energy,,111525.33500000008
+Asia,Total Non-Renewable,Other non-renewable energy,,132747.976
+Asia,Total Non-Renewable,Nuclear,2000.0,70115.5
+Asia,Total Non-Renewable,Nuclear,2001.0,70634.5
+Asia,Total Non-Renewable,Nuclear,2002.0,75264.5
+Asia,Total Non-Renewable,Nuclear,2003.0,75827.5
+Asia,Total Non-Renewable,Nuclear,2004.0,78907.5
+Asia,Total Non-Renewable,Nuclear,2005.0,83089.5
+Asia,Total Non-Renewable,Nuclear,2006.0,84056.5
+Asia,Total Non-Renewable,Nuclear,2007.0,86396.5
+Asia,Total Non-Renewable,Nuclear,2008.0,84862.7
+Asia,Total Non-Renewable,Nuclear,2009.0,86214.7
+Asia,Total Non-Renewable,Nuclear,2010.0,88293.5
+Asia,Total Non-Renewable,Nuclear,2011.0,92384.5
+Asia,Total Non-Renewable,Nuclear,2012.0,91572.7
+Asia,Total Non-Renewable,Nuclear,2013.0,91778.5
+Asia,Total Non-Renewable,Nuclear,2014.0,98198.5
+Asia,Total Non-Renewable,Nuclear,2015.0,104072.5
+Asia,Total Non-Renewable,Nuclear,2016.0,111341.5
+Asia,Total Non-Renewable,Nuclear,2017.0,111973.73999999999
+Asia,Total Non-Renewable,Nuclear,2018.0,118409.5
+Asia,Total Non-Renewable,Nuclear,2019.0,118294.5
+Asia,Total Non-Renewable,Nuclear,2020.0,120834.5
+Asia,Total Non-Renewable,Nuclear,2021.0,124405.2
+Asia,Total Non-Renewable,Nuclear,2022.0,130798.2
+Asia,Total Non-Renewable,Nuclear,2023.0,133303.2
+Asia,Total Non-Renewable,Nuclear,2024.0,139752.0
+Asia,Total Non-Renewable,Fossil fuels,2000.0,828592.7030000001
+Asia,Total Non-Renewable,Fossil fuels,2001.0,851006.4980000001
+Asia,Total Non-Renewable,Fossil fuels,2002.0,884608.442
+Asia,Total Non-Renewable,Fossil fuels,2003.0,951036.6059999999
+Asia,Total Non-Renewable,Fossil fuels,2004.0,999386.2740000001
+Asia,Total Non-Renewable,Fossil fuels,2005.0,1077936.506
+Asia,Total Non-Renewable,Fossil fuels,2006.0,1191023.2249999999
+Asia,Total Non-Renewable,Fossil fuels,2007.0,1288567.967
+Asia,Total Non-Renewable,Fossil fuels,2008.0,1366853.7810000002
+Asia,Total Non-Renewable,Fossil fuels,2009.0,1457054.0099999998
+Asia,Total Non-Renewable,Fossil fuels,2010.0,1562631.7089999998
+Asia,Total Non-Renewable,Fossil fuels,2011.0,1672910.8489999997
+Asia,Total Non-Renewable,Fossil fuels,2012.0,1777948.0389999994
+Asia,Total Non-Renewable,Fossil fuels,2013.0,1885105.9860000003
+Asia,Total Non-Renewable,Fossil fuels,2014.0,1984697.9769999995
+Asia,Total Non-Renewable,Fossil fuels,2015.0,2102586.555
+Asia,Total Non-Renewable,Fossil fuels,2016.0,2196236.578
+Asia,Total Non-Renewable,Fossil fuels,2017.0,2278053.625999999
+Asia,Total Non-Renewable,Fossil fuels,2018.0,2371640.9140000003
+Asia,Total Non-Renewable,Fossil fuels,2019.0,2442105.2219999996
+Asia,Total Non-Renewable,Fossil fuels,2020.0,2513514.8770000003
+Asia,Total Non-Renewable,Fossil fuels,2021.0,2569133.2419999996
+Asia,Total Non-Renewable,Fossil fuels,2022.0,2629511.622999999
+Asia,Total Non-Renewable,Fossil fuels,2023.0,2701331.437999999
+Asia,Total Non-Renewable,Fossil fuels,2024.0,2778839.4099999997
+Asia,Total Non-Renewable,Pumped storage,2000.0,35582.6
+Asia,Total Non-Renewable,Pumped storage,2001.0,31135.6
+Asia,Total Non-Renewable,Pumped storage,2002.0,32116.6
+Asia,Total Non-Renewable,Pumped storage,2003.0,32416.6
+Asia,Total Non-Renewable,Pumped storage,2004.0,32852.6
+Asia,Total Non-Renewable,Pumped storage,2005.0,34722.6
+Asia,Total Non-Renewable,Pumped storage,2006.0,37322.6
+Asia,Total Non-Renewable,Pumped storage,2007.0,40847.6
+Asia,Total Non-Renewable,Pumped storage,2008.0,42802.6
+Asia,Total Non-Renewable,Pumped storage,2009.0,46272.6
+Asia,Total Non-Renewable,Pumped storage,2010.0,49502.6
+Asia,Total Non-Renewable,Pumped storage,2011.0,52655.1
+Asia,Total Non-Renewable,Pumped storage,2012.0,55075.184
+Asia,Total Non-Renewable,Pumped storage,2013.0,56275.184
+Asia,Total Non-Renewable,Pumped storage,2014.0,57457.684
+Asia,Total Non-Renewable,Pumped storage,2015.0,59617.684
+Asia,Total Non-Renewable,Pumped storage,2016.0,63250.684
+Asia,Total Non-Renewable,Pumped storage,2017.0,65950.68400000001
+Asia,Total Non-Renewable,Pumped storage,2018.0,66550.68400000001
+Asia,Total Non-Renewable,Pumped storage,2019.0,66850.68400000001
+Asia,Total Non-Renewable,Pumped storage,2020.0,68350.68400000001
+Asia,Total Non-Renewable,Pumped storage,2021.0,73250.68400000001
+Asia,Total Non-Renewable,Pumped storage,2022.0,82650.68400000001
+Asia,Total Non-Renewable,Pumped storage,2023.0,87800.68400000001
+Asia,Total Non-Renewable,Pumped storage,2024.0,87753.68400000001
+Europe,Total Renewable,Wind energy,2000.0,12756.915
+Europe,Total Renewable,Wind energy,2001.0,17396.933
+Europe,Total Renewable,Wind energy,2002.0,23296.111
+Europe,Total Renewable,Wind energy,2003.0,28161.946
+Europe,Total Renewable,Wind energy,2004.0,34329.142
+Europe,Total Renewable,Wind energy,2005.0,40694.065
+Europe,Total Renewable,Wind energy,2006.0,47928.675
+Europe,Total Renewable,Wind energy,2007.0,56350.583000000006
+Europe,Total Renewable,Wind energy,2008.0,64065.069
+Europe,Total Renewable,Wind energy,2009.0,75814.31199999999
+Europe,Total Renewable,Wind energy,2010.0,84839.194
+Europe,Total Renewable,Wind energy,2011.0,94587.215
+Europe,Total Renewable,Wind energy,2012.0,107055.22600000001
+Europe,Total Renewable,Wind energy,2013.0,118036.57
+Europe,Total Renewable,Wind energy,2014.0,130149.64600000001
+Europe,Total Renewable,Wind energy,2015.0,142960.036
+Europe,Total Renewable,Wind energy,2016.0,155674.75999999998
+Europe,Total Renewable,Wind energy,2017.0,170599.04
+Europe,Total Renewable,Wind energy,2018.0,181825.672
+Europe,Total Renewable,Wind energy,2019.0,196149.066
+Europe,Total Renewable,Wind energy,2020.0,208778.928
+Europe,Total Renewable,Wind energy,2021.0,223397.47199999995
+Europe,Total Renewable,Wind energy,2022.0,242454.81699999998
+Europe,Total Renewable,Wind energy,2023.0,259613.93199999994
+Europe,Total Renewable,Wind energy,2024.0,271300.08799999993
+Europe,Total Renewable,Solar energy,2000.0,88.394
+Europe,Total Renewable,Solar energy,2001.0,108.503
+Europe,Total Renewable,Solar energy,2002.0,129.965
+Europe,Total Renewable,Solar energy,2003.0,629.146
+Europe,Total Renewable,Solar energy,2004.0,1341.187
+Europe,Total Renewable,Solar energy,2005.0,2324.966
+Europe,Total Renewable,Solar energy,2006.0,3289.136
+Europe,Total Renewable,Solar energy,2007.0,5063.378
+Europe,Total Renewable,Solar energy,2008.0,10542.131
+Europe,Total Renewable,Solar energy,2009.0,17144.252
+Europe,Total Renewable,Solar energy,2010.0,30717.086000000003
+Europe,Total Renewable,Solar energy,2011.0,54436.86700000001
+Europe,Total Renewable,Solar energy,2012.0,73101.094
+Europe,Total Renewable,Solar energy,2013.0,83440.24700000002
+Europe,Total Renewable,Solar energy,2014.0,90480.52200000001
+Europe,Total Renewable,Solar energy,2015.0,98760.01
+Europe,Total Renewable,Solar energy,2016.0,105147.30699999999
+Europe,Total Renewable,Solar energy,2017.0,111062.489
+Europe,Total Renewable,Solar energy,2018.0,120270.981
+Europe,Total Renewable,Solar energy,2019.0,141000.78100000002
+Europe,Total Renewable,Solar energy,2020.0,161305.746
+Europe,Total Renewable,Solar energy,2021.0,188388.59700000004
+Europe,Total Renewable,Solar energy,2022.0,224423.17799999999
+Europe,Total Renewable,Solar energy,2023.0,281212.70900000003
+Europe,Total Renewable,Solar energy,2024.0,340207.00499999995
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2000.0,212079.86699999997
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2001.0,212411.875
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2002.0,213087.69
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2003.0,214252.69
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2004.0,216101.066
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2005.0,218433.451
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2006.0,219192.61000000002
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2007.0,221618.203
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2008.0,223274.09999999998
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2009.0,224471.58
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2010.0,226094.82099999997
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2011.0,227931.31800000006
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2012.0,230907.607
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2013.0,232736.368
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2014.0,230122.145
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2015.0,232688.032
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2016.0,236165.64000000004
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2017.0,238358.74300000002
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2018.0,239561.85499999998
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2019.0,241856.27499999997
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2020.0,243423.13399999996
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2021.0,244279.08000000002
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2022.0,246874.85799999998
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2023.0,250116.03599999996
+Europe,Total Renewable,Hydropower (excl. Pumped Storage),2024.0,245451.53599999996
+Europe,Total Renewable,Bioenergy,2000.0,9392.958999999997
+Europe,Total Renewable,Bioenergy,2001.0,10349.960000000001
+Europe,Total Renewable,Bioenergy,2002.0,10874.203
+Europe,Total Renewable,Bioenergy,2003.0,12619.911
+Europe,Total Renewable,Bioenergy,2004.0,14199.831
+Europe,Total Renewable,Bioenergy,2005.0,17454.16
+Europe,Total Renewable,Bioenergy,2006.0,19477.200999999997
+Europe,Total Renewable,Bioenergy,2007.0,19770.247999999996
+Europe,Total Renewable,Bioenergy,2008.0,21253.033
+Europe,Total Renewable,Bioenergy,2009.0,24393.787999999997
+Europe,Total Renewable,Bioenergy,2010.0,26472.845999999998
+Europe,Total Renewable,Bioenergy,2011.0,29949.863000000005
+Europe,Total Renewable,Bioenergy,2012.0,31481.671
+Europe,Total Renewable,Bioenergy,2013.0,32793.27999999999
+Europe,Total Renewable,Bioenergy,2014.0,33306.868
+Europe,Total Renewable,Bioenergy,2015.0,34739.50699999999
+Europe,Total Renewable,Bioenergy,2016.0,35741.201
+Europe,Total Renewable,Bioenergy,2017.0,37178.193
+Europe,Total Renewable,Bioenergy,2018.0,40043.72099999999
+Europe,Total Renewable,Bioenergy,2019.0,41336.174
+Europe,Total Renewable,Bioenergy,2020.0,41832.264
+Europe,Total Renewable,Bioenergy,2021.0,41543.618999999984
+Europe,Total Renewable,Bioenergy,2022.0,42371.543999999994
+Europe,Total Renewable,Bioenergy,2023.0,41397.907
+Europe,Total Renewable,Bioenergy,2024.0,43230.577
+Europe,Total Renewable,Marine energy,,5663.984000000003
+Europe,Total Renewable,Geothermal energy,,35097.049000000006
+Europe,Total Non-Renewable,Other non-renewable energy,,177789.48099999988
+Europe,Total Non-Renewable,Nuclear,2000.0,173652.0
+Europe,Total Non-Renewable,Nuclear,2001.0,174695.0
+Europe,Total Non-Renewable,Nuclear,2002.0,175884.0
+Europe,Total Non-Renewable,Nuclear,2003.0,174615.0
+Europe,Total Non-Renewable,Nuclear,2004.0,176204.0
+Europe,Total Non-Renewable,Nuclear,2005.0,175291.0
+Europe,Total Non-Renewable,Nuclear,2006.0,174603.0
+Europe,Total Non-Renewable,Nuclear,2007.0,173515.0
+Europe,Total Non-Renewable,Nuclear,2008.0,173379.0
+Europe,Total Non-Renewable,Nuclear,2009.0,173804.0
+Europe,Total Non-Renewable,Nuclear,2010.0,173008.0
+Europe,Total Non-Renewable,Nuclear,2011.0,173389.0
+Europe,Total Non-Renewable,Nuclear,2012.0,165489.0
+Europe,Total Non-Renewable,Nuclear,2013.0,165277.0
+Europe,Total Non-Renewable,Nuclear,2014.0,166883.0
+Europe,Total Non-Renewable,Nuclear,2015.0,166187.0
+Europe,Total Non-Renewable,Nuclear,2016.0,166828.0
+Europe,Total Non-Renewable,Nuclear,2017.0,165830.28999999998
+Europe,Total Non-Renewable,Nuclear,2018.0,165546.28999999998
+Europe,Total Non-Renewable,Nuclear,2019.0,164260.28999999998
+Europe,Total Non-Renewable,Nuclear,2020.0,158886.28999999998
+Europe,Total Non-Renewable,Nuclear,2021.0,158839.28999999998
+Europe,Total Non-Renewable,Nuclear,2022.0,151965.28999999998
+Europe,Total Non-Renewable,Nuclear,2023.0,148522.28999999998
+Europe,Total Non-Renewable,Nuclear,2024.0,143751.28999999998
+Europe,Total Non-Renewable,Fossil fuels,2000.0,598973.3679999999
+Europe,Total Non-Renewable,Fossil fuels,2001.0,602494.011
+Europe,Total Non-Renewable,Fossil fuels,2002.0,604945.221
+Europe,Total Non-Renewable,Fossil fuels,2003.0,603557.141
+Europe,Total Non-Renewable,Fossil fuels,2004.0,617815.2819999999
+Europe,Total Non-Renewable,Fossil fuels,2005.0,618423.3259999999
+Europe,Total Non-Renewable,Fossil fuels,2006.0,628136.786
+Europe,Total Non-Renewable,Fossil fuels,2007.0,638366.4290000001
+Europe,Total Non-Renewable,Fossil fuels,2008.0,647636.776
+Europe,Total Non-Renewable,Fossil fuels,2009.0,652462.9589999999
+Europe,Total Non-Renewable,Fossil fuels,2010.0,667372.9219999999
+Europe,Total Non-Renewable,Fossil fuels,2011.0,665949.7679999999
+Europe,Total Non-Renewable,Fossil fuels,2012.0,673967.786
+Europe,Total Non-Renewable,Fossil fuels,2013.0,667123.804
+Europe,Total Non-Renewable,Fossil fuels,2014.0,658930.871
+Europe,Total Non-Renewable,Fossil fuels,2015.0,645345.7370000001
+Europe,Total Non-Renewable,Fossil fuels,2016.0,632510.8130000001
+Europe,Total Non-Renewable,Fossil fuels,2017.0,630445.457
+Europe,Total Non-Renewable,Fossil fuels,2018.0,635254.753
+Europe,Total Non-Renewable,Fossil fuels,2019.0,617978.643
+Europe,Total Non-Renewable,Fossil fuels,2020.0,609699.0959999999
+Europe,Total Non-Renewable,Fossil fuels,2021.0,602806.6259999998
+Europe,Total Non-Renewable,Fossil fuels,2022.0,600033.141
+Europe,Total Non-Renewable,Fossil fuels,2023.0,598679.333
+Europe,Total Non-Renewable,Fossil fuels,2024.0,565719.133
+Europe,Total Non-Renewable,Pumped storage,2000.0,25784.95
+Europe,Total Non-Renewable,Pumped storage,2001.0,25920.95
+Europe,Total Non-Renewable,Pumped storage,2002.0,26008.95
+Europe,Total Non-Renewable,Pumped storage,2003.0,25671.95
+Europe,Total Non-Renewable,Pumped storage,2004.0,26181.95
+Europe,Total Non-Renewable,Pumped storage,2005.0,26947.95
+Europe,Total Non-Renewable,Pumped storage,2006.0,26915.95
+Europe,Total Non-Renewable,Pumped storage,2007.0,27140.95
+Europe,Total Non-Renewable,Pumped storage,2008.0,27132.95
+Europe,Total Non-Renewable,Pumped storage,2009.0,27980.45
+Europe,Total Non-Renewable,Pumped storage,2010.0,28213.45
+Europe,Total Non-Renewable,Pumped storage,2011.0,28204.11
+Europe,Total Non-Renewable,Pumped storage,2012.0,28043.11
+Europe,Total Non-Renewable,Pumped storage,2013.0,28946.06
+Europe,Total Non-Renewable,Pumped storage,2014.0,29415.06
+Europe,Total Non-Renewable,Pumped storage,2015.0,29596.06
+Europe,Total Non-Renewable,Pumped storage,2016.0,29896.100000000002
+Europe,Total Non-Renewable,Pumped storage,2017.0,29679.980000000003
+Europe,Total Non-Renewable,Pumped storage,2018.0,29576.480000000003
+Europe,Total Non-Renewable,Pumped storage,2019.0,29576.480000000003
+Europe,Total Non-Renewable,Pumped storage,2020.0,29581.440000000002
+Europe,Total Non-Renewable,Pumped storage,2021.0,29905.440000000002
+Europe,Total Non-Renewable,Pumped storage,2022.0,29892.06
+Europe,Total Non-Renewable,Pumped storage,2023.0,29925.61
+Europe,Total Non-Renewable,Pumped storage,2024.0,30135.61
+Oceania,Total Renewable,Wind energy,2000.0,73.00500000000001
+Oceania,Total Renewable,Wind energy,2001.0,116.545
+Oceania,Total Renewable,Wind energy,2002.0,165.745
+Oceania,Total Renewable,Wind energy,2003.0,273.40500000000003
+Oceania,Total Renewable,Wind energy,2004.0,567.91
+Oceania,Total Renewable,Wind energy,2005.0,930.91
+Oceania,Total Renewable,Wind energy,2006.0,1016.41
+Oceania,Total Renewable,Wind energy,2007.0,1611.7329999999997
+Oceania,Total Renewable,Wind energy,2008.0,1808.9279999999999
+Oceania,Total Renewable,Wind energy,2009.0,2266.878
+Oceania,Total Renewable,Wind energy,2010.0,2454.7580000000003
+Oceania,Total Renewable,Wind energy,2011.0,2801.0430000000006
+Oceania,Total Renewable,Wind energy,2012.0,3235.0430000000006
+Oceania,Total Renewable,Wind energy,2013.0,3895.0540000000005
+Oceania,Total Renewable,Wind energy,2014.0,4531.154
+Oceania,Total Renewable,Wind energy,2015.0,5059.165
+Oceania,Total Renewable,Wind energy,2016.0,5425.44
+Oceania,Total Renewable,Wind energy,2017.0,6149.165
+Oceania,Total Renewable,Wind energy,2018.0,7152.090999999999
+Oceania,Total Renewable,Wind energy,2019.0,8625.480999999998
+Oceania,Total Renewable,Wind energy,2020.0,10951.480999999998
+Oceania,Total Renewable,Wind energy,2021.0,11522.480999999998
+Oceania,Total Renewable,Wind energy,2022.0,13034.610999999999
+Oceania,Total Renewable,Wind energy,2023.0,14041.610999999999
+Oceania,Total Renewable,Wind energy,2024.0,16625.611
+Oceania,Total Renewable,Solar energy,2000.0,26.210000000000004
+Oceania,Total Renewable,Solar energy,2001.0,30.697000000000003
+Oceania,Total Renewable,Solar energy,2002.0,35.88400000000001
+Oceania,Total Renewable,Solar energy,2003.0,41.45399999999999
+Oceania,Total Renewable,Solar energy,2004.0,48.79599999999999
+Oceania,Total Renewable,Solar energy,2005.0,55.22199999999999
+Oceania,Total Renewable,Solar energy,2006.0,64.65499999999999
+Oceania,Total Renewable,Solar energy,2007.0,79.828
+Oceania,Total Renewable,Solar energy,2008.0,92.61200000000002
+Oceania,Total Renewable,Solar energy,2009.0,340.504
+Oceania,Total Renewable,Solar energy,2010.0,1102.0539999999996
+Oceania,Total Renewable,Solar energy,2011.0,1442.1290000000001
+Oceania,Total Renewable,Solar energy,2012.0,2542.7690000000002
+Oceania,Total Renewable,Solar energy,2013.0,3356.8419999999996
+Oceania,Total Renewable,Solar energy,2014.0,4208.728
+Oceania,Total Renewable,Solar energy,2015.0,5173.935
+Oceania,Total Renewable,Solar energy,2016.0,6062.419
+Oceania,Total Renewable,Solar energy,2017.0,7470.025000000002
+Oceania,Total Renewable,Solar energy,2018.0,11423.593000000004
+Oceania,Total Renewable,Solar energy,2019.0,15824.962000000005
+Oceania,Total Renewable,Solar energy,2020.0,20201.339999999993
+Oceania,Total Renewable,Solar energy,2021.0,24929.134999999987
+Oceania,Total Renewable,Solar energy,2022.0,29603.105000000003
+Oceania,Total Renewable,Solar energy,2023.0,34126.24499999999
+Oceania,Total Renewable,Solar energy,2024.0,39547.51599999998
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2000.0,12391.007
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2001.0,12460.207
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2002.0,12565.262
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2003.0,12563.442000000001
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2004.0,12645.267
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2005.0,13252.262999999999
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2006.0,13255.075
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2007.0,13263.075
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2008.0,13294.075
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2009.0,13250.675000000001
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2010.0,13254.462000000001
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2011.0,13329.492000000002
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2012.0,13396.897
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2013.0,13405.606
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2014.0,13405.656
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2015.0,13423.656
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2016.0,13422.309
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2017.0,13427.918999999998
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2018.0,13680.278999999997
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2019.0,13692.652999999998
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2020.0,13695.732999999998
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2021.0,13695.732999999998
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2022.0,13938.858999999999
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2023.0,14732.219
+Oceania,Total Renewable,Hydropower (excl. Pumped Storage),2024.0,15083.798999999997
+Oceania,Total Renewable,Bioenergy,2000.0,547.454
+Oceania,Total Renewable,Bioenergy,2001.0,700.4939999999999
+Oceania,Total Renewable,Bioenergy,2002.0,740.7939999999999
+Oceania,Total Renewable,Bioenergy,2003.0,792.7939999999999
+Oceania,Total Renewable,Bioenergy,2004.0,862.5999999999999
+Oceania,Total Renewable,Bioenergy,2005.0,936.5999999999999
+Oceania,Total Renewable,Bioenergy,2006.0,1013.8999999999999
+Oceania,Total Renewable,Bioenergy,2007.0,1030.8999999999999
+Oceania,Total Renewable,Bioenergy,2008.0,986.9399999999998
+Oceania,Total Renewable,Bioenergy,2009.0,1021.0149999999999
+Oceania,Total Renewable,Bioenergy,2010.0,1026.021
+Oceania,Total Renewable,Bioenergy,2011.0,1031.7269999999999
+Oceania,Total Renewable,Bioenergy,2012.0,1034.639
+Oceania,Total Renewable,Bioenergy,2013.0,1026.551
+Oceania,Total Renewable,Bioenergy,2014.0,1037.807
+Oceania,Total Renewable,Bioenergy,2015.0,1043.767
+Oceania,Total Renewable,Bioenergy,2016.0,1078.767
+Oceania,Total Renewable,Bioenergy,2017.0,1094.767
+Oceania,Total Renewable,Bioenergy,2018.0,1094.767
+Oceania,Total Renewable,Bioenergy,2019.0,1094.77
+Oceania,Total Renewable,Bioenergy,2020.0,1096.52
+Oceania,Total Renewable,Bioenergy,2021.0,1104.2209999999998
+Oceania,Total Renewable,Bioenergy,2022.0,1104.223
+Oceania,Total Renewable,Bioenergy,2023.0,1108.017
+Oceania,Total Renewable,Bioenergy,2024.0,1193.0869999999998
+Oceania,Total Renewable,Marine energy,,11.057999999999998
+Oceania,Total Renewable,Geothermal energy,,19993.300000000003
+Oceania,Total Non-Renewable,Other non-renewable energy,,428.0
+Oceania,Total Non-Renewable,Fossil fuels,2000.0,40898.873000000014
+Oceania,Total Non-Renewable,Fossil fuels,2001.0,41510.303000000014
+Oceania,Total Non-Renewable,Fossil fuels,2002.0,44021.93300000001
+Oceania,Total Non-Renewable,Fossil fuels,2003.0,45157.22300000002
+Oceania,Total Non-Renewable,Fossil fuels,2004.0,45359.88200000002
+Oceania,Total Non-Renewable,Fossil fuels,2005.0,44515.37400000002
+Oceania,Total Non-Renewable,Fossil fuels,2006.0,44887.15700000003
+Oceania,Total Non-Renewable,Fossil fuels,2007.0,47681.50200000002
+Oceania,Total Non-Renewable,Fossil fuels,2008.0,48247.090000000026
+Oceania,Total Non-Renewable,Fossil fuels,2009.0,50589.13000000001
+Oceania,Total Non-Renewable,Fossil fuels,2010.0,53582.407000000014
+Oceania,Total Non-Renewable,Fossil fuels,2011.0,54386.43700000001
+Oceania,Total Non-Renewable,Fossil fuels,2012.0,54589.34000000002
+Oceania,Total Non-Renewable,Fossil fuels,2013.0,54249.53200000002
+Oceania,Total Non-Renewable,Fossil fuels,2014.0,55069.42500000001
+Oceania,Total Non-Renewable,Fossil fuels,2015.0,60014.24500000001
+Oceania,Total Non-Renewable,Fossil fuels,2016.0,57768.14000000002
+Oceania,Total Non-Renewable,Fossil fuels,2017.0,55072.81200000002
+Oceania,Total Non-Renewable,Fossil fuels,2018.0,55560.76300000003
+Oceania,Total Non-Renewable,Fossil fuels,2019.0,55369.74700000002
+Oceania,Total Non-Renewable,Fossil fuels,2020.0,56805.595000000016
+Oceania,Total Non-Renewable,Fossil fuels,2021.0,57255.803000000014
+Oceania,Total Non-Renewable,Fossil fuels,2022.0,57476.17300000002
+Oceania,Total Non-Renewable,Fossil fuels,2023.0,55707.24800000001
+Oceania,Total Non-Renewable,Fossil fuels,2024.0,57141.734000000004
+Oceania,Total Non-Renewable,Pumped storage,2000.0,1490.0
+Oceania,Total Non-Renewable,Pumped storage,2001.0,1490.0
+Oceania,Total Non-Renewable,Pumped storage,2002.0,1490.0
+Oceania,Total Non-Renewable,Pumped storage,2003.0,1490.0
+Oceania,Total Non-Renewable,Pumped storage,2004.0,1416.0
+Oceania,Total Non-Renewable,Pumped storage,2005.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2006.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2007.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2008.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2009.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2010.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2011.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2012.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2013.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2014.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2015.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2016.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2017.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2018.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2019.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2020.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2021.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2022.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2023.0,810.0
+Oceania,Total Non-Renewable,Pumped storage,2024.0,810.0
