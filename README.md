@@ -6,13 +6,13 @@ Home Page: A modern welcome page introducing the project and its purpose.
 
 Detailed Country Panel: Allows in-depth analysis of a selected country’s energy data:
 
-Capacity trends by technology over the years (Line Chart).
+    Capacity trends by technology over the years (Line Chart).
 
-Technology distribution in a selected year (Pie/Bar Chart).
+    Technology distribution in a selected year (Pie/Bar Chart).
 
-An interactive Sankey diagram showing the flow of the energy portfolio.
+    An interactive Sankey diagram showing the flow of the energy portfolio.
 
-Global Overview: Summarizes the global situation:
+    Global Overview: Summarizes the global situation:
 
 An interactive Choropleth map displaying global capacity distribution for a selected year and technology.
 
