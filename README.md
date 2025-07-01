@@ -12,54 +12,27 @@ Detailed Country Panel: Allows in-depth analysis of a selected country’s energ
 
     An interactive Sankey diagram showing the flow of the energy portfolio.
 
-    Global Overview: Summarizes the global situation:
+Global Overview: Summarizes the global situation:
 
-An interactive Choropleth map displaying global capacity distribution for a selected year and technology.
+    An interactive Choropleth map displaying global capacity distribution for a selected year and technology.
 
-Key performance indicators such as total capacity and the number of countries with available data.
+    Key performance indicators such as total capacity and the number of countries with available data.
 
 Regional Analysis: Compares different geographical regions:
 
-Capacity trends over time for each region.
+    Capacity trends over time for each region.
 
-Stacked capacity charts grouped by technology for each region.
+    Stacked capacity charts grouped by technology for each region.
 
-A Treemap showing capacity hierarchy.
+    A Treemap showing capacity hierarchy.
 
 Country Comparison: Allows comparison of up to 4 countries for a specific technology.
 
 Dynamic Theme: Toggle between light and dark mode.
 
-📂 Project Structure
-The project is organized in a modular and readable manner:
 
-
-.
-├── app.py                  # Main Dash application with layout and routing logic
-├── Procfile                # For deployment on platforms like Heroku
-├── requirements.txt        # Required Python libraries
-│
-├── assets/                 # Static files like CSS and JavaScript
-│   ├── style.css           # Global stylesheet
-│   ├── clientside.js       # Client-side logic (e.g., theme toggle)
-│   └── Animation...json    # Lottie animation file (deprecated)
-│
-├── components/             # Reusable modules
-│   ├── data_loader.py      # Loads and processes country-level data (Country.csv)
-│   └── region_data_loader.py # Loads and processes region-level data (Region.csv)
-│
-├── data/                   # Raw data files
-│   ├── Country.csv         # Detailed capacity data by country
-│   ├── Global.csv          # (Not currently in use)
-│   └── Region.csv          # Aggregated capacity data by region
-│
-└── pages/                  # Different pages of the application
-    ├── landing_page.py     # Main landing page
-    ├── main_dashboard.py   # Detailed country analysis panel
-    ├── global_overview.py  # Global map and KPIs
-    ├── regional_analysis.py# Regional comparison page
-    └── comparison_page.py  # Country comparison page
 🚀 Installation and Running
+
 Follow these steps to run the project locally:
 
 1. Clone the Repository:
