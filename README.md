@@ -36,15 +36,19 @@ Dynamic Theme: Toggle between light and dark mode.
 Follow these steps to run the project locally:
 
 1. Clone the Repository:
+
 git clone https://github.com/afrknkaya/dash-map-app.git
+
 cd dash-map-app
+
 2. Create a Virtual Environment (Recommended):
-# Windows
+Windows
 python -m venv venv
 venv\Scripts\activate
 
-# macOS / Linux
+macOS / Linux
 python3 -m venv venv
+
 source venv/bin/activate
 3. Install Required Packages:
 All required packages are listed in the requirements.txt file.
