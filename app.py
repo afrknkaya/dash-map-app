@@ -4,7 +4,7 @@ from dash import html, dcc, Output, Input, State, no_update, ClientsideFunction
 import dash_bootstrap_components as dbc
 
 # Sayfaları import et
-from pages import main_dashboard, landing_page, global_overview, regional_analysis, comparison_page, foll # foll.py EKLENDİ
+from pages import main_dashboard, landing_page, global_overview, regional_analysis, comparison_page
 
 app = dash.Dash(__name__,
                 suppress_callback_exceptions=True,
@@ -24,7 +24,7 @@ offcanvas_menu_content = dbc.Nav(
         dbc.NavLink("Global Bakış", href="/global", active="exact", className="offcanvas-nav-link"),
         dbc.NavLink("Bölgesel Analiz", href="/regional", active="exact", className="offcanvas-nav-link"),
         dbc.NavLink("Ülke Karşılaştırma", href="/comparison", active="exact", className="offcanvas-nav-link"),
-        dbc.NavLink("Folium Harita", href="/folium-map", active="exact", className="offcanvas-nav-link"), # YENİ LİNK (foll.py için)
+        
     ],
     vertical=True,
     pills=True,
@@ -165,8 +165,7 @@ def display_page(pathname):
         return regional_analysis.layout
     elif pathname == '/comparison':
         return comparison_page.layout
-    elif pathname == '/folium-map': # YENİ ROTA (foll.py için)
-        return foll.layout 
+  
     elif pathname == '/':
         return landing_page.layout() 
     else:
