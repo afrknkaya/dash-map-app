@@ -42,29 +42,34 @@ git clone https://github.com/afrknkaya/dash-map-app.git
 cd dash-map-app
 
 2. Create a Virtual Environment (Recommended):
-Windows
-python -m venv venv
-venv\Scripts\activate
 
-macOS / Linux
-python3 -m venv venv
+        Windows
+        python -m venv venv
+        venv\Scripts\activate
 
-source venv/bin/activate
+        macOS / Linux
+        python3 -m venv venv
+
+        source venv/bin/activate
 3. Install Required Packages:
-All required packages are listed in the requirements.txt file.
-pip install -r requirements.txt
+
+        All required packages are listed in the requirements.txt file.
+        pip install -r requirements.txt
+
 4. Run the Application:
-python app.py
-The app will start at http://127.0.0.1:8050/ by default.
+
+       python app.py
+        The app will start at http://127.0.0.1:8050/ by default.
 
 🛠️ Technologies Used
-Backend & Frontend: Dash
+        
+    Backend & Frontend: Dash
 
-Data Visualization: Plotly Express
+    Data Visualization: Plotly Express
 
-Data Manipulation: Pandas
+    Data Manipulation: Pandas
 
-UI Components: Dash Bootstrap Components
+    UI Components: Dash Bootstrap Components
 
-Deployment: Gunicorn (as defined in the Procfile)
+    Deployment: Gunicorn (as defined in the Procfile)
 
